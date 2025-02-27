@@ -56,7 +56,7 @@ dependencies {
     implementation(libs.androidx.navigation.ui.ktx)
 
 
-    val cameraxVersion = "1.4.0-beta02"
+    val cameraxVersion = "1.4.1"
     implementation("androidx.camera:camera-camera2:${cameraxVersion}")
     implementation("androidx.camera:camera-lifecycle:${cameraxVersion}")
     implementation("androidx.camera:camera-view:${cameraxVersion}")
